@@ -1,0 +1,17 @@
+{
+  "id": "buckley-swanson-peck-carlson--reported-role-as--danger-zone-radio-executive-producer",
+  "subject": "buckley-swanson-peck-carlson",
+  "relation": "reported_role_as",
+  "object": "danger-zone-radio-executive-producer",
+  "object_kind": "office",
+  "statement": "A June 2007 industry profile identified the elder Buckley Carlson as executive producer of the Danger Zone radio program.",
+  "status": "reported",
+  "date": "2007-06-04",
+  "sources": [
+    {
+      "title": "MrWeb, New Office and Leader for Kelton Research",
+      "url": "https://www.mrweb.com/drno/printable/pn6866.htm",
+      "locator": "June 4, 2007, career paragraph beginning with previous positions."
+    }
+  ]
+}

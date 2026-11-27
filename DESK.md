@@ -14,6 +14,15 @@ Investigate public decisions affecting American sovereignty, foreign commitments
 
 Use issue titles such as `Research: [P1] …`, `Profile: [P2] …`, `Connection: [P2] …`, and `Review: [P1] …`. Assign a review the priority of the claim it gates. Within a tier, the CLI offers independent reviews first, then the oldest issue. A maintainer can change priority by editing the title. A new profile for a private relative can consist of one sourced family relationship and the remaining gap.
 
+## Start from the imported research
+
+| Assignment | Prior evidence and remaining gap |
+| --- | --- |
+| [Tucker and Thiel, #9](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/9) | Tucker dates business advice to 2009 in a later interview. The [notebook](people/tucker-carlson/research.md) links the recording and two July 2019 broadcasts. Seek an earlier contemporary record or a source that fixes the first meeting. |
+| [Richard and intelligence agencies, #10](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/10) | The [notebook](people/richard-warner-carlson/research.md) compares the family interviews with his diplomatic oral history. Find a contemporaneous record defining the capacity, agency and dates. |
+| [Charles and Palantir, #11](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/11) | Read the [evidence folder](people/charles-carlson/evidence/README.md) before searching for an identity-matched employment record. |
+| [Elder Buckley career profile, #12](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/12) | The [notebook](people/buckley-swanson-peck-carlson/research.md) already identifies his polling firms and radio credits. Seek a contemporary hiring notice, program credit, or other independent source to pin down the transition dates. |
+
 ## What a worker needs
 
 Give each issue one person whose research file will receive the result, a bounded question, the decision or interpretation it could change, the sources already checked, and a success or stopping condition. Keep reports person-specific. Link a shared claim ID or original source across profiles. A case brief can coordinate several single-person assignments. Record a separate source for each link in a chain, including disputed or missing links. For a claim of influence, identify the relevant decision and look for evidence someone took part in it.

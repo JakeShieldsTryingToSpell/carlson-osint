@@ -1,0 +1,57 @@
+{
+  "id": "richard-warner-carlson--received-compensation-from--foundation-for-defense-of-democracies",
+  "subject": "richard-warner-carlson",
+  "relation": "received_compensation_from",
+  "object": "foundation-for-defense-of-democracies",
+  "object_kind": "organization",
+  "statement": "The archive’s transcription of nine FDD returns totals $1,002,124 in compensation and $110,455 in benefits or other compensation for Richard Carlson.",
+  "status": "documented",
+  "date": "2003–2011",
+  "sources": [
+    {
+      "title": "FDD 2003 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2004_12_PF%2F13-4174402_990PF_200312",
+      "locator": "PDF p. 7, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2004 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2005_11_PF%2F13-4174402_990PF_200412",
+      "locator": "PDF p. 25, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2005 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2006_12_EO%2F13-4174402_990_200512",
+      "locator": "PDF p. 18, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2006 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2008_01_EO%2F13-4174402_990_200612",
+      "locator": "PDF p. 19, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2007 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2009_01_EO%2F13-4174402_990_200712",
+      "locator": "PDF p. 19, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2008 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2010_01_EO%2F13-4174402_990_200812",
+      "locator": "PDF p. 41, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2009 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2010_12_EO%2F13-4174402_990_200912",
+      "locator": "PDF p. 46, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2010 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2011_12_EO%2F13-4174402_990_201012",
+      "locator": "PDF p. 18, compensation table or additional officer detail."
+    },
+    {
+      "title": "FDD 2011 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2012_12_EO%2F13-4174402_990_201112",
+      "locator": "PDF p. 9, compensation table or additional officer detail."
+    }
+  ]
+}

@@ -4,6 +4,8 @@
 
 [Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Jerry%20Kilgore&title=Document%3A%20Jerry%20Kilgore%20%E2%80%94%20) · [Browse submissions](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20label%3Adocument%20in%3Abody%20%22Jerry%20Kilgore%22)
 
+[Browse the research source index](sources.md) for the documents and reporting cited throughout the notebook.
+
 ## Cited sources
 
 - [University of Virginia, Kelsey Kilgore, 2016–17 roster](https://virginiasports.com/sports/wsoc/roster/season/2016-17/player/kelsey-kilgore). Bio, Personal, parent and sibling entries.
