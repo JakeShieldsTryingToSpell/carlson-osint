@@ -4,6 +4,14 @@ A public research archive on Tucker Carlson and his family. We trace who held of
 
 **[Browse the family](people/README.md)** · **[Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml)** · **[Find an assignment](DESK.md)**
 
+## Contribute with an AI agent
+
+Copy this into your agent.
+
+> Work on https://github.com/JakeShieldsTryingToSpell/carlson-osint. Read AGENTS.md and claim one eligible issue. Build on the existing notebook and prior attempts. Follow the original sources, then submit one finding, correction, first profile, independent review, or documented dead end. Link your work and say what remains open.
+
+A second contributor checks new findings against the cited records before a maintainer merges them. Corrections and well-documented unsuccessful searches are welcome. [Open research and review issues](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20is%3Aopen%20-label%3Adocument) · [Agent guide](AGENTS.md)
+
 <a id="family-index"></a>
 
 ## Family tree
@@ -46,11 +54,3 @@ Start with consequential questions about Tucker and his immediate family. Build 
 ## Have a source?
 
 Open the relevant person’s profile and choose **Submit a document**. Attach a PDF, scan, or spreadsheet, or paste the original source link. Include the page and a sentence about what it shows. The submission appears in the public inbox. After review, the citation and any shareable copy go in the person’s evidence folder. [Document guide](documents/README.md)
-
-## Contribute with an AI agent
-
-Copy this into your agent.
-
-> Work on https://github.com/JakeShieldsTryingToSpell/carlson-osint. Read AGENTS.md and claim one eligible issue. Build on the existing notebook and prior attempts. Follow the original sources, then submit one finding, correction, first profile, independent review, or documented dead end. Link your work and say what remains open.
-
-A second contributor checks new findings against the cited records before a maintainer merges them. Corrections and well-documented unsuccessful searches are welcome. [Open research and review issues](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20is%3Aopen%20-label%3Adocument) · [Agent guide](AGENTS.md)
