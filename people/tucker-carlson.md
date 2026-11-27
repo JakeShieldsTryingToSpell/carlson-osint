@@ -2,6 +2,10 @@
 
 Tucker McNear Carlson and Tucker Swanson McNear Carlson appear in the estate opinion.
 
+## Documents
+
+[Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Tucker%20Carlson&title=Document%3A%20Tucker%20Carlson%20%E2%80%94%20) · [Browse submissions](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20label%3Adocument%20in%3Abody%20%22Tucker%20Carlson%22)
+
 ## Relationships and public record
 
 | Person or subject | Finding | Evidence |
@@ -22,7 +26,7 @@ Tucker McNear Carlson and Tucker Swanson McNear Carlson appear in the estate opi
 - [The Vaughan estate](../cases/vaughan-estate.md)
 - [The 2019 Rockbridge gathering](../cases/rockbridge.md)
 
-[Family index](../README.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)
+[Family index](../DIRECTORY.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)
 
 ## Additional sourced relationships
 

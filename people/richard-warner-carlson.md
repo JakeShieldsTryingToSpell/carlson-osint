@@ -2,6 +2,10 @@
 
 Also known as Dick Carlson. His public service and his family relationships have separate records.
 
+## Documents
+
+[Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Richard%20Warner%20Carlson&title=Document%3A%20Richard%20Warner%20Carlson%20%E2%80%94%20) · [Browse submissions](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20label%3Adocument%20in%3Abody%20%22Richard%20Warner%20Carlson%22)
+
 ## Relationships and public record
 
 | Person or subject | Finding | Evidence |
@@ -16,4 +20,4 @@ Also known as Dick Carlson. His public service and his family relationships have
 
 - [Richard Carlson’s Seychelles appointment](../cases/seychelles.md)
 
-[Family index](../README.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)
+[Family index](../DIRECTORY.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)

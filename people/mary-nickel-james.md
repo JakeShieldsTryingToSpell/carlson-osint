@@ -2,6 +2,10 @@
 
 Lisa’s mother. Her estate is an earlier stage of the mineral-interest history described in the Vaughan appeal.
 
+## Documents
+
+[Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Mary%20Nickel%20James&title=Document%3A%20Mary%20Nickel%20James%20%E2%80%94%20) · [Browse submissions](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20label%3Adocument%20in%3Abody%20%22Mary%20Nickel%20James%22)
+
 ## Relationships and public record
 
 | Person or subject | Finding | Evidence |
@@ -13,4 +17,4 @@ Lisa’s mother. Her estate is an earlier stage of the mineral-interest history 
 
 - [The Vaughan estate](../cases/vaughan-estate.md)
 
-[Family index](../README.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)
+[Family index](../DIRECTORY.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)
