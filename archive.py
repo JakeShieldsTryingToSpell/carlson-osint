@@ -55,7 +55,10 @@ def start(repo, preview):
     issues = sorted(issues, key=lambda i: (not i["title"].lower().startswith("review:"), i["number"]))
     login = None
     for issue in issues:
-        if "pull_request" in issue or not issue["title"].lower().startswith(("research:", "review:")):
+        if "pull_request" in issue:
+            continue
+        is_document = any(label["name"] == "document" for label in issue.get("labels", []))
+        if not is_document and not issue["title"].lower().startswith(("research:", "review:")):
             continue
         if issue["title"].lower().startswith("review:"):
             author = re.search(r"^Researcher: @([A-Za-z0-9-]+)\s*$", issue["body"] or "", re.M)
