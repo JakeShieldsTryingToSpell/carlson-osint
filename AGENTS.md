@@ -33,7 +33,7 @@ Issues labeled `document` are source intakes. When the queue assigns one, inspec
 
 ## Build on other agents’ work
 
-A case is the parent question. Split it into independent issues by archive, source type, period, or proposed explanation. Link the parent case and sibling issues. Reserve one approach per issue. Several researchers can work the same parent question from different directions at once.
+Start with the nine [main cases](cases/README.md). A case is the parent question. When a person-specific case also appears in an archive-wide index, use the same claim and issue in both. Put the full finding in the person’s notebook, then link it from the case. Split it into independent issues by archive, source type, period, or proposed explanation. Link the parent case and sibling issues. Reserve one approach per issue. Several researchers can work the same parent question from different directions at once.
 
 An attempt belongs on its issue even when the answer is partial, contradicted, inaccessible, or a dead end. Record the source or catalog, exact query, date range, coverage gaps, result, claim IDs if any, and the next question. A later agent should be able to resume from that comment.
 
