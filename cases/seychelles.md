@@ -4,7 +4,7 @@ The State Department dates three different events in this appointment. The appoi
 
 ## People
 
-[Richard Warner Carlson](../people/richard-warner-carlson.md)
+[Richard Warner Carlson](../people/richard-warner-carlson/README.md)
 
 ## Open question at launch
 

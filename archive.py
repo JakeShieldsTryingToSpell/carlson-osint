@@ -12,7 +12,7 @@ from urllib.parse import unquote, urlparse
 ROOT = Path(__file__).resolve().parent
 REPO = "JakeShieldsTryingToSpell/carlson-osint"
 HOLD = timedelta(hours=24)
-MARKER = re.compile(r"^Archive (claim|release|review) ([0-9a-f]{32})$", re.M)
+MARKER = re.compile(r"^Archive (claim|release|review|exhausted) ([0-9a-f]{32})$", re.M)
 
 
 def gh(*args):
@@ -44,21 +44,28 @@ def assignment(comments, now):
         elif (author, code) == (owner, token):
             if action == "release":
                 owner = token = expires = None
-            elif action == "review":
+            elif action in {"review", "exhausted"}:
                 expires = None
     return (owner, token) if not expires or now < expires else (None, None)
+
+
+def issue_rank(issue):
+    title = issue["title"].lower()
+    tier = re.search(r"\[p([123])\]", title)
+    priority = int(tier.group(1)) if tier else 3
+    return (priority, not title.startswith("review:"), issue["number"])
 
 
 def start(repo, preview):
     issue_path = "repos/" + repo + "/issues"
     issues = pages(issue_path + "?state=open&per_page=100")
-    issues = sorted(issues, key=lambda i: (not i["title"].lower().startswith("review:"), i["number"]))
+    issues = sorted(issues, key=issue_rank)
     login = None
     for issue in issues:
-        if "pull_request" in issue:
+        if "pull_request" in issue or issue["assignees"] or "[parked]" in issue["title"].lower():
             continue
         is_document = any(label["name"] == "document" for label in issue.get("labels", []))
-        if not is_document and not issue["title"].lower().startswith(("research:", "review:")):
+        if not is_document and not issue["title"].lower().startswith(("research:", "profile:", "connection:", "review:")):
             continue
         if issue["title"].lower().startswith("review:"):
             author = re.search(r"^Researcher: @([A-Za-z0-9-]+)\s*$", issue["body"] or "", re.M)
@@ -71,7 +78,7 @@ def start(repo, preview):
         path = issue_path + "/" + str(issue["number"])
         route = path + "/comments"
         comments = pages(route + "?per_page=100")
-        if issue["assignees"] or assignment(comments, datetime.now(timezone.utc))[1]:
+        if assignment(comments, datetime.now(timezone.utc))[1]:
             continue
         if not preview:
             token = uuid.uuid4().hex
@@ -84,6 +91,9 @@ def start(repo, preview):
                 continue
             print("Reservation token:", token)
         print(issue["html_url"], issue["title"], issue["body"] or "", sep="\n\n")
+        prior = [c["body"] for c in comments if c["body"].strip() and not MARKER.fullmatch(c["body"].strip())]
+        if prior:
+            print("\nPrior discussion and search attempts:", *prior, sep="\n\n")
         return
     print("No open, unclaimed research issue. See AGENTS.md for proposing new work.")
 
@@ -95,7 +105,18 @@ def check():
             target = urlparse(link)
             if not target.scheme and target.path and not (path.parent / unquote(target.path)).exists():
                 errors.append(f"{path.name}: missing link {target.path}")
-    people = {p.stem for p in (ROOT / "people").glob("*.md")}
+    people_root = ROOT / "people"
+    people = {p.name for p in people_root.iterdir() if p.is_dir() and not p.name.startswith(".")}
+    if not people:
+        errors.append("people/: no person folders")
+    for person in sorted(people):
+        for part in ("README.md", "research.md", "evidence/README.md"):
+            path = people_root / person / part
+            if not path.is_file() or not path.read_text().strip():
+                errors.append(f"people/{person}/{part}: missing or empty")
+    for path in people_root.glob("*.md"):
+        if path.name != "README.md":
+            errors.append(f"{path.name}: move the profile into its own folder")
     dependencies = {}
     for file in sorted((ROOT / "evidence").glob("*.json")):
         try:
@@ -120,8 +141,15 @@ def check():
             ):
                 raise ValueError("source needs title, URL, and passage locator")
             for person in {record["subject"], record["object"]} & people:
-                if f"../evidence/{file.name}" not in (ROOT / "people" / (person + ".md")).read_text():
-                    raise ValueError("missing evidence link on profile " + person)
+                notes = people_root / person / "research.md"
+                catalog = people_root / person / "evidence" / "README.md"
+                if notes.is_file() and f"(../../evidence/{file.name})" not in notes.read_text():
+                    raise ValueError("missing claim link in research notes for " + person)
+                if catalog.is_file():
+                    source_links = catalog.read_text()
+                    for source in record["sources"]:
+                        if f"({source['url']})" not in source_links:
+                            raise ValueError("missing source in evidence catalog for " + person)
         except (ValueError, TypeError, KeyError, AttributeError) as err:
             errors.append(f"{file.name}: {err}")
     checked = set()

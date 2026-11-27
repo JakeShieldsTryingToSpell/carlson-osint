@@ -4,7 +4,7 @@ The Washington Post reported that Tucker attended the Ohio gathering. Its accoun
 
 ## People
 
-[Tucker Carlson](../people/tucker-carlson.md)
+[Tucker Carlson](../people/tucker-carlson/README.md)
 
 ## Open question at launch
 

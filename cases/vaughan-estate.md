@@ -4,7 +4,7 @@ The California appeal traces earlier distributions from Mary Nickel James’s es
 
 ## People
 
-[Lisa McNear Lombardi Vaughan](../people/lisa-mcnear-lombardi-vaughan.md), [Buckley Swanson Peck Carlson](../people/buckley-swanson-peck-carlson.md), [Tucker Carlson](../people/tucker-carlson.md), [Mary Nickel James](../people/mary-nickel-james.md), [Michael Vaughan](../people/michael-vaughan.md), [Peter Lombardi](../people/peter-lombardi.md)
+[Lisa McNear Lombardi Vaughan](../people/lisa-mcnear-lombardi-vaughan/README.md), [Buckley Swanson Peck Carlson](../people/buckley-swanson-peck-carlson/README.md), [Tucker Carlson](../people/tucker-carlson/README.md), [Mary Nickel James](../people/mary-nickel-james/README.md), [Michael Vaughan](../people/michael-vaughan/README.md), [Peter Lombardi](../people/peter-lombardi/README.md)
 
 ## Open question at launch
 

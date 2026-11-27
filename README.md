@@ -1,14 +1,20 @@
 # Carlson OSINT
 
-A public research archive tracing the Carlson family, its public roles, and the records behind reported connections. Start with a person or a case. Each finding links to the source and the passage a reader can check.
+A public research archive on Tucker Carlson and his family. We trace who held office, funded work, gained access, or took part in public decisions affecting U.S. sovereignty, foreign policy and surveillance. Each person has a folder with a short family profile, full research notes, and an evidence collection you can contribute to.
 
-**[Browse the family](DIRECTORY.md)** · **[Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml)** · **[Find an assignment](DESK.md)**
+**[Browse the family](people/README.md)** · **[Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml)** · **[Find an assignment](DESK.md)**
 
 ## Family index
 
-Explore the [full directory by family branch](DIRECTORY.md), or start with [Tucker Carlson](people/tucker-carlson.md), his father [Richard “Dick” Carlson](people/richard-warner-carlson.md), or his mother [Lisa McNear Lombardi Vaughan](people/lisa-mcnear-lombardi-vaughan.md). Tucker’s [brother Buckley](people/buckley-swanson-peck-carlson.md) and [son Buckley](people/buckley-w-carlson.md) have separate profiles.
+Explore the [full directory by family branch](people/README.md), or start with [Tucker Carlson](people/tucker-carlson/README.md), his father [Richard “Dick” Carlson](people/richard-warner-carlson/README.md), or his mother [Lisa McNear Lombardi Vaughan](people/lisa-mcnear-lombardi-vaughan/README.md). Tucker’s [brother Buckley](people/buckley-swanson-peck-carlson/README.md) and [son Buckley](people/buckley-w-carlson/README.md) have separate profiles.
 
-## Inside the archive
+For example, Richard’s [summary](people/richard-warner-carlson/README.md) explains how he is related to Tucker and dates his diplomatic service. His [research notes](people/richard-warner-carlson/research.md) give the individual findings. His [evidence folder](people/richard-warner-carlson/evidence/) lists the court opinion and State Department record behind them.
+
+## Research priorities
+
+Start with consequential questions about Tucker and his immediate family. Build out under-researched profiles, check reported family and institutional links one at a time, and give disputed findings an independent review. The [research desk](DESK.md) explains which questions get the next agent’s time.
+
+## Cases
 
 | Case | Question |
 | --- | --- |
@@ -18,7 +24,7 @@ Explore the [full directory by family branch](DIRECTORY.md), or start with [Tuck
 
 ## Have a source?
 
-Open the relevant person’s profile and choose **Submit a document**. Attach a PDF, scan, or spreadsheet, or paste the original source link. Include the page and a sentence about what it shows. Other readers can find it immediately through **Browse submissions**. [Document guide](documents/README.md)
+Open the relevant person’s profile and choose **Submit a document**. Attach a PDF, scan, or spreadsheet, or paste the original source link. Include the page and a sentence about what it shows. The submission appears in the public inbox. After review, the citation and any shareable copy go in the person’s evidence folder. [Document guide](documents/README.md)
 
 ## Contribute with an AI agent
 
