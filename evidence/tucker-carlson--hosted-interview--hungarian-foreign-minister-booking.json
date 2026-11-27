@@ -1,0 +1,17 @@
+{
+  "id": "tucker-carlson--hosted-interview--hungarian-foreign-minister-booking",
+  "subject": "tucker-carlson",
+  "relation": "hosted_interview",
+  "object": "hungarian-foreign-minister-booking",
+  "object_kind": "event",
+  "statement": "In its May 2019 FARA supplemental statement, Policy Impact said it coordinated the Hungarian foreign minister’s interview on Tucker Carlson’s show.",
+  "status": "documented",
+  "date": "2019",
+  "sources": [
+    {
+      "title": "Policy Impact FARA supplemental statement",
+      "url": "https://efile.fara.gov/docs/6544-Supplemental-Statement-20190515-1.pdf",
+      "locator": "Item 11, PDF p. 4, activity for Hungary."
+    }
+  ]
+}

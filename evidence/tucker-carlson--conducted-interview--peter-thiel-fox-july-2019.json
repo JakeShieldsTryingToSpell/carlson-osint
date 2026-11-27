@@ -1,0 +1,17 @@
+{
+  "id": "tucker-carlson--conducted-interview--peter-thiel-fox-july-2019",
+  "subject": "tucker-carlson",
+  "relation": "conducted_interview",
+  "object": "peter-thiel-fox-july-2019",
+  "object_kind": "event",
+  "statement": "Tucker Carlson interviewed Peter Thiel about Google on Fox on July 15, 2019.",
+  "status": "documented",
+  "date": "2019-07-15",
+  "sources": [
+    {
+      "title": "Fox Business video, July 15, 2019",
+      "url": "https://www.foxbusiness.com/video/6059543095001",
+      "locator": "Broadcast segment on Google and possible Chinese infiltration."
+    }
+  ]
+}

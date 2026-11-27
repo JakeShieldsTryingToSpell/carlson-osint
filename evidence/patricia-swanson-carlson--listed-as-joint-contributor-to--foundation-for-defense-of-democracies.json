@@ -1,0 +1,17 @@
+{
+  "id": "patricia-swanson-carlson--listed-as-joint-contributor-to--foundation-for-defense-of-democracies",
+  "subject": "patricia-swanson-carlson",
+  "relation": "listed_as_joint_contributor_to",
+  "object": "foundation-for-defense-of-democracies",
+  "object_kind": "organization",
+  "statement": "FDD’s 2004 return lists Patricia and Richard Carlson together for one $60,000 contribution without assigning individual shares.",
+  "status": "documented",
+  "date": "2004",
+  "sources": [
+    {
+      "title": "FDD 2004 filed return",
+      "url": "https://projects.propublica.org/nonprofits/display_990/134174402/2005_11_PF%2F13-4174402_990PF_200412",
+      "locator": "Schedule B, contributor 16, PDF p. 17."
+    }
+  ]
+}

@@ -1,6 +1,14 @@
 # Susan Andrews Carlson — research notes
 
-[Summary](README.md) · [Evidence and sources](evidence/README.md)
+[Summary](README.md) · [Evidence and sources](evidence/README.md) · [Source index](evidence/sources.md)
+
+Public-source research imported November 27, 2026. Each passage retains its source attribution. The outstanding questions identify what would change the finding.
+
+## The Georgetown recommendation request
+
+The Washington Post reported on correspondence in which Susan and Tucker asked Hunter Biden for help with a Georgetown recommendation for their son. The account describes Biden agreeing to help. Whether a final letter was delivered or affected an admissions decision remains unresolved. [Washington Post, May 19, 2022](https://www.washingtonpost.com/politics/2022/05/19/look-time-tucker-carlson-asked-hunter-biden-favor/)
+
+## Archive family records and case links
 
 Also identified in reporting as Susan Andrews. Her children each have their own entry.
 
@@ -15,3 +23,7 @@ Also identified in reporting as Susan Andrews. Her children each have their own 
 | [Dorothy Carlson](../dorothy-carlson/README.md) | Susan Andrews Carlson is identified as a parent of Dorothy Carlson. | [reported](../../evidence/susan-andrews-carlson--parent-of--dorothy-carlson.json) · [source](https://people.com/tucker-carlson-children-everything-to-know-8781633) |
 
 [Family index](../README.md) · [Research queue](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues)
+
+## Claim records from the research import
+
+- The Washington Post reported on a 2014 request by Susan and Tucker Carlson for Hunter Biden’s help with a college recommendation for their son. [Structured record](../../evidence/susan-andrews-carlson--named-in-reporting-on--georgetown-recommendation-request.json)

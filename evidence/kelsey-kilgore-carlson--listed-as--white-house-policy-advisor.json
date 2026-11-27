@@ -1,0 +1,17 @@
+{
+  "id": "kelsey-kilgore-carlson--listed-as--white-house-policy-advisor",
+  "subject": "kelsey-kilgore-carlson",
+  "relation": "listed_as",
+  "object": "white-house-policy-advisor",
+  "object_kind": "office",
+  "statement": "The 2019 White House personnel report lists Kelsey E. Kilgore as a detailee and policy adviser at an annual rate of $57,510.",
+  "status": "documented",
+  "date": "2019-06",
+  "sources": [
+    {
+      "title": "White House personnel report",
+      "url": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/06/July-1-2019-Report-FINAL.pdf#page=9",
+      "locator": "PDF p. 9, row for Kilgore, Kelsey E."
+    }
+  ]
+}

@@ -4,6 +4,8 @@
 
 [Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Susan%20Andrews%20Carlson&title=Document%3A%20Susan%20Andrews%20Carlson%20%E2%80%94%20) · [Browse submissions](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20label%3Adocument%20in%3Abody%20%22Susan%20Andrews%20Carlson%22)
 
+[Browse the research source index](sources.md) for the documents and reporting cited throughout the notebook.
+
 ## Cited sources
 
 - [People, profile of Tucker Carlson’s four children (January 28, 2025)](https://people.com/tucker-carlson-children-everything-to-know-8781633). Section on Tucker and Susan’s three daughters and one son.
@@ -11,3 +13,7 @@
 ## File uploads
 
 Submit a document above, or add a shareable file to this folder in a pull request. List its filename, issuer, date, original URL and page here. For a file already held under another person, link to that copy.
+
+## Records behind the highlights
+
+- [Washington Post, May 19, 2022](https://www.washingtonpost.com/politics/2022/05/19/look-time-tucker-carlson-asked-hunter-biden-favor/). Correspondence concerning the Georgetown application and Biden’s reply.

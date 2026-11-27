@@ -1,0 +1,17 @@
+{
+  "id": "susan-andrews-carlson--named-in-reporting-on--georgetown-recommendation-request",
+  "subject": "susan-andrews-carlson",
+  "relation": "named_in_reporting_on",
+  "object": "georgetown-recommendation-request",
+  "object_kind": "event",
+  "statement": "The Washington Post reported on a 2014 request by Susan and Tucker Carlson for Hunter Biden’s help with a college recommendation for their son.",
+  "status": "reported",
+  "date": "2014",
+  "sources": [
+    {
+      "title": "Washington Post, May 19, 2022",
+      "url": "https://www.washingtonpost.com/politics/2022/05/19/look-time-tucker-carlson-asked-hunter-biden-favor/",
+      "locator": "Correspondence concerning the Georgetown application and Biden’s reply."
+    }
+  ]
+}

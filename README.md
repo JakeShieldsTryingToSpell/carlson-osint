@@ -8,7 +8,7 @@ A public research archive on Tucker Carlson and his family. We trace who held of
 
 Explore the [full directory by family branch](people/README.md), or start with [Tucker Carlson](people/tucker-carlson/README.md), his father [Richard “Dick” Carlson](people/richard-warner-carlson/README.md), or his mother [Lisa McNear Lombardi Vaughan](people/lisa-mcnear-lombardi-vaughan/README.md). Tucker’s [brother Buckley](people/buckley-swanson-peck-carlson/README.md) and [son Buckley](people/buckley-w-carlson/README.md) have separate profiles.
 
-For example, Richard’s [summary](people/richard-warner-carlson/README.md) explains how he is related to Tucker and dates his diplomatic service. His [research notes](people/richard-warner-carlson/research.md) give the individual findings. His [evidence folder](people/richard-warner-carlson/evidence/) lists the court opinion and State Department record behind them.
+The most extensive notebooks cover [Tucker’s media, political and business relationships](people/tucker-carlson/research.md), [Richard’s public service and FDD filings](people/richard-warner-carlson/research.md), and [Kelsey’s federal work and lobbying filings](people/kelsey-kilgore-carlson/research.md). For the short version, open the README in each person’s folder.
 
 ## Research priorities
 
