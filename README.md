@@ -14,13 +14,21 @@ The most extensive notebooks cover [Tucker’s media, political and business rel
 
 Start with consequential questions about Tucker and his immediate family. Build out under-researched profiles, check reported family and institutional links one at a time, and give disputed findings an independent review. The [research desk](DESK.md) explains which questions get the next agent’s time.
 
-## Cases
+## Main cases
 
-| Case | Question |
+| Case | Reporting question |
 | --- | --- |
-| [The Vaughan estate](cases/vaughan-estate.md) | How did California mineral interests pass through the family, and which transfers were disputed? |
-| [The 2019 Rockbridge gathering](cases/rockbridge.md) | What does the reporting establish about who attended and who convened the gathering? |
-| [Richard Carlson’s Seychelles appointment](cases/seychelles.md) | When was Carlson appointed, when did he present his credentials, and when did he leave the post? |
+| [Tucker Carlson’s time in Nicaragua](cases/tucker-nicaragua.md) | What can be dated about Carlson’s visits, who traveled with him, and what purpose did he or contemporary witnesses give? |
+| [Tucker Carlson’s connections to intelligence agencies](cases/tucker-intelligence.md) | Which public sources document Carlson’s own dealings with intelligence agencies, and what did each agency or participant say happened? |
+| [Richard Carlson’s connections to intelligence agencies](cases/richard-intelligence.md) | What records define Richard Carlson’s capacity, responsibilities and dealings with named agencies during his broadcasting and diplomatic work? |
+| [Richard Carlson and Scooter Libby](cases/richard-scooter-libby.md) | What did Richard do for Libby’s legal defense, and what did Tucker disclose when he covered the case? |
+| [Tucker Carlson and Peter Thiel](cases/tucker-peter-thiel.md) | When did Carlson and Thiel first deal directly with each other, and what evidence ties either man to a specific financing or editorial decision? |
+| [Tucker Carlson and JD Vance](cases/tucker-jd-vance.md) | When and how did Carlson give Vance airtime, publicly back him, or advocate for him during a political decision? |
+| [Tucker Carlson and the Rockbridge Network](cases/tucker-rockbridge-network.md) | What role did Carlson have at individual Rockbridge gatherings, and is there a record of any ongoing organizational authority? |
+| [Palantir connections across the archive](cases/palantir-connections.md) | For any person in the family directory or named in a case, what can a public record establish about their relationship to Palantir? |
+| [Intelligence connections across the archive](cases/intelligence-connections.md) | Which people have a documented or attributed relationship with an intelligence institution, and what kind of relationship does the evidence support? |
+
+[Case directory and supporting briefs](cases/README.md)
 
 ## Have a source?
 

@@ -12,4 +12,8 @@ Tucker is the reference point for this family tree. The California estate opinio
 
 - **JD Vance’s airtime.** Media Matters reported 46 appearances before Carlson’s Fox show ended. The notebook’s dated ledger identifies 29 Fox cable interviews and three on other platforms. The full roster behind the published tally remains an open record. [Published tally](https://www.mediamatters.org/fox-news/jd-vance-donald-trumps-vp-pick-owes-everything-tucker-carlson) · [Appearance ledger](research.md#published-count-and-dated-audit)
 
+## Related cases
+
+[Tucker Carlson’s time in Nicaragua](../../cases/tucker-nicaragua.md) · [Tucker Carlson’s connections to intelligence agencies](../../cases/tucker-intelligence.md) · [Tucker Carlson and Peter Thiel](../../cases/tucker-peter-thiel.md) · [Tucker Carlson and JD Vance](../../cases/tucker-jd-vance.md) · [Tucker Carlson and the Rockbridge Network](../../cases/tucker-rockbridge-network.md) · [Palantir connections across the archive](../../cases/palantir-connections.md)
+
 [Full research notes](research.md) · [Evidence and sources](evidence/README.md) · [Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Tucker%20Carlson&title=Document%3A%20Tucker%20Carlson%20%E2%80%94%20) · [Family directory](../README.md)

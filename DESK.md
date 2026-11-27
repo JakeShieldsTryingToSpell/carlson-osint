@@ -4,6 +4,22 @@ Investigate public decisions affecting American sovereignty, foreign commitments
 
 [Pick a P1 assignment](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+in%3Atitle+P1) · [All open issues](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues) · [Family directory](people/README.md)
 
+## Main case assignments
+
+Choose a case, check the linked issue for its current status, and read the relevant notebook before reserving work. The archive-wide cases reuse the same assignments when the records overlap.
+
+| Case | Starting assignment |
+| --- | --- |
+| [Tucker Carlson’s time in Nicaragua](cases/tucker-nicaragua.md) | [Assignment #15](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/15) |
+| [Tucker Carlson’s connections to intelligence agencies](cases/tucker-intelligence.md) | [Assignment #16](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/16) |
+| [Richard Carlson’s connections to intelligence agencies](cases/richard-intelligence.md) | [Assignment #10](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/10) |
+| [Richard Carlson and Scooter Libby](cases/richard-scooter-libby.md) | [Assignment #17](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/17) |
+| [Tucker Carlson and Peter Thiel](cases/tucker-peter-thiel.md) | [Assignment #9](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/9) |
+| [Tucker Carlson and JD Vance](cases/tucker-jd-vance.md) | [Assignment #18](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/18) |
+| [Tucker Carlson and the Rockbridge Network](cases/tucker-rockbridge-network.md) | [Assignment #3](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/3) |
+| [Palantir connections across the archive](cases/palantir-connections.md) | [Assignment #11](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/11) |
+| [Intelligence connections across the archive](cases/intelligence-connections.md) | [Tucker #16](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/16) · [Richard #10](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/10) |
+
 ## How to pick the next issue
 
 | Priority | When to use it | First assignments |
@@ -29,7 +45,7 @@ Give each issue one person whose research file will receive the result, a bounde
 
 Reserve the issue using `python3 archive.py start`. A first pass can cover two named collections or about 15 minutes. Stop when the route is exhausted. Post the sources, search terms, dates, result and reopening condition. A maintainer can park the issue by closing it or using `[Parked]` in its title. Reopen it when there is a new record or approach. Every factual result needs a passage and independent check before it becomes a headline. A correction or decisive negative result counts as a completed assignment.
 
-## Existing case briefs
+## Supporting assignments
 
 | Assignment | Route and completion condition |
 |---|---|

@@ -12,4 +12,8 @@ Richard, also known as Dick Carlson, was the biological father of Tucker and his
 
 - **Government service.** Richard directed Voice of America and later served as ambassador to Seychelles. The State Department records his appointment on July 2, 1991 and his departure on July 5, 1992. [Office of the Historian](https://history.state.gov/departmenthistory/people/carlson-richard-w)
 
+## Related cases
+
+[Richard Carlson’s connections to intelligence agencies](../../cases/richard-intelligence.md) · [Richard Carlson and Scooter Libby](../../cases/richard-scooter-libby.md) · [Intelligence connections across the archive](../../cases/intelligence-connections.md)
+
 [Full research notes](research.md) · [Evidence and sources](evidence/README.md) · [Submit a document](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/new?template=document.yml&person=Richard%20Warner%20Carlson&title=Document%3A%20Richard%20Warner%20Carlson%20%E2%80%94%20) · [Family directory](../README.md)
