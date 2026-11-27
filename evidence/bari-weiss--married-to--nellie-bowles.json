@@ -1,0 +1,16 @@
+{
+  "id": "bari-weiss--married-to--nellie-bowles",
+  "subject": "bari-weiss",
+  "relation": "married_to",
+  "object": "nellie-bowles",
+  "object_kind": "person",
+  "statement": "People reports that Bari Weiss and Nellie Bowles married in 2020.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "People, profile of Nellie Bowles",
+      "url": "https://people.com/who-is-nellie-bowles-bari-weiss-wife-11894491",
+      "locator": "Opening marriage summary."
+    }
+  ]
+}

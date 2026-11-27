@@ -1,0 +1,17 @@
+{
+  "id": "tucker-carlson--attended--rockbridge-ohio-summit-2019",
+  "subject": "tucker-carlson",
+  "relation": "attended",
+  "object": "rockbridge-ohio-summit-2019",
+  "object_kind": "event",
+  "statement": "The Washington Post places Tucker Carlson at the 2019 Ohio summit in reporting based on two people familiar with the gathering.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Elizabeth Dwoskin, The Washington Post (November 4, 2025)",
+      "url": "https://www.washingtonpost.com/technology/2025/11/04/chris-buskirk-maga-vance-post-trump/",
+      "locator": "Opening account of the 2019 gathering, attributed to two people familiar with the meeting."
+    }
+  ],
+  "date": "2019"
+}

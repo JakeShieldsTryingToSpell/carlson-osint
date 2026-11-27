@@ -1,0 +1,17 @@
+{
+  "id": "buckley-w-carlson--married-to--kelsey-kilgore-carlson",
+  "subject": "buckley-w-carlson",
+  "relation": "married_to",
+  "object": "kelsey-kilgore-carlson",
+  "object_kind": "person",
+  "statement": "Buckley W. Carlson married Kelsey Kilgore Carlson.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "LegiStorm, Buckley W. Carlson",
+      "url": "https://www.legistorm.com/person/bio/337834/Buckley_W_Carlson/hashkey/2df622f4.html",
+      "locator": "Biography, marriage entry naming Kelsey Kilgore."
+    }
+  ],
+  "date": "2023-05-27"
+}

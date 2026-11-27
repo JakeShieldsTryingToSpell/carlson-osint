@@ -1,0 +1,16 @@
+{
+  "id": "patricia-swanson-carlson--adoptive-parent-of--tucker-carlson",
+  "subject": "patricia-swanson-carlson",
+  "relation": "adoptive_parent_of",
+  "object": "tucker-carlson",
+  "object_kind": "person",
+  "statement": "Patricia Swanson Carlson adopted Tucker Carlson.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Facts, subsection headed Lisa Lombardi Vaughan, opening paragraphs."
+    }
+  ]
+}

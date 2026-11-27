@@ -1,0 +1,16 @@
+{
+  "id": "tucker-carlson--married-to--susan-andrews-carlson",
+  "subject": "tucker-carlson",
+  "relation": "married_to",
+  "object": "susan-andrews-carlson",
+  "object_kind": "person",
+  "statement": "Tucker Carlson married Susan Andrews Carlson.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "People, profile of Tucker Carlson’s four children (January 28, 2025)",
+      "url": "https://people.com/tucker-carlson-children-everything-to-know-8781633",
+      "locator": "Section on Tucker and Susan’s three daughters and one son."
+    }
+  ]
+}

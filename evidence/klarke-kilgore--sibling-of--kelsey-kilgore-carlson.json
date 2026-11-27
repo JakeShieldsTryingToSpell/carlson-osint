@@ -1,0 +1,16 @@
+{
+  "id": "klarke-kilgore--sibling-of--kelsey-kilgore-carlson",
+  "subject": "klarke-kilgore",
+  "relation": "sibling_of",
+  "object": "kelsey-kilgore-carlson",
+  "object_kind": "person",
+  "statement": "Klarke Kilgore is identified as a sibling of Kelsey Kilgore Carlson.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "University of Virginia, Kelsey Kilgore, 2016–17 roster",
+      "url": "https://virginiasports.com/sports/wsoc/roster/season/2016-17/player/kelsey-kilgore",
+      "locator": "Bio, Personal, parent and sibling entries."
+    }
+  ]
+}

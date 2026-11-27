@@ -1,0 +1,16 @@
+{
+  "id": "richard-warner-carlson--married-to--patricia-swanson-carlson",
+  "subject": "richard-warner-carlson",
+  "relation": "married_to",
+  "object": "patricia-swanson-carlson",
+  "object_kind": "person",
+  "statement": "Richard Warner Carlson married Patricia Swanson Carlson.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Facts, subsection headed Lisa Lombardi Vaughan, opening paragraphs."
+    }
+  ]
+}

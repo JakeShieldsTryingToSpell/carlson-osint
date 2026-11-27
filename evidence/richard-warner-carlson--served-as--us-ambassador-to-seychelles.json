@@ -1,0 +1,17 @@
+{
+  "id": "richard-warner-carlson--served-as--us-ambassador-to-seychelles",
+  "subject": "richard-warner-carlson",
+  "relation": "served_as",
+  "object": "us-ambassador-to-seychelles",
+  "object_kind": "office",
+  "statement": "Richard Carlson received his appointment on July 2, 1991, presented credentials on October 1, and left the post on July 5, 1992.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "U.S. Department of State, Office of the Historian, Richard W. Carlson",
+      "url": "https://history.state.gov/departmenthistory/people/carlson-richard-w",
+      "locator": "Ambassador to Seychelles entry, appointment and termination of mission."
+    }
+  ],
+  "date": "1991–1992"
+}

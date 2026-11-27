@@ -1,0 +1,16 @@
+{
+  "id": "melissa-price--married-to--buckley-swanson-peck-carlson",
+  "subject": "melissa-price",
+  "relation": "married_to",
+  "object": "buckley-swanson-peck-carlson",
+  "object_kind": "person",
+  "statement": "The family notice named Buckley Carlson as Melissa’s husband in 2021.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Carol Swanson Price family obituary, Los Angeles Times, December 12, 2021",
+      "url": "https://www.legacy.com/us/obituaries/latimes/name/carol-price-obituary?id=31847247",
+      "locator": "Survivors paragraph, after the account of the move to California."
+    }
+  ]
+}

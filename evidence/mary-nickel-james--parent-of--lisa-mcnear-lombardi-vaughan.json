@@ -1,0 +1,16 @@
+{
+  "id": "mary-nickel-james--parent-of--lisa-mcnear-lombardi-vaughan",
+  "subject": "mary-nickel-james",
+  "relation": "parent_of",
+  "object": "lisa-mcnear-lombardi-vaughan",
+  "object_kind": "person",
+  "statement": "Mary Nickel James is identified as a parent of Lisa McNear Lombardi Vaughan.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Facts, subsection headed Lisa Lombardi Vaughan, opening paragraphs."
+    }
+  ]
+}

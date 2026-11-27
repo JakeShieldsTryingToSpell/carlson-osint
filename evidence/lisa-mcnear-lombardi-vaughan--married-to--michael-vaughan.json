@@ -1,0 +1,17 @@
+{
+  "id": "lisa-mcnear-lombardi-vaughan--married-to--michael-vaughan",
+  "subject": "lisa-mcnear-lombardi-vaughan",
+  "relation": "married_to",
+  "object": "michael-vaughan",
+  "object_kind": "person",
+  "statement": "Lisa McNear Lombardi Vaughan married Michael Vaughan.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Facts, subsection headed Lisa Lombardi Vaughan, opening paragraphs."
+    }
+  ],
+  "date": "1989-02"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "carol-swanson-price--grandparent-of--charles-carlson",
+  "subject": "carol-swanson-price",
+  "relation": "grandparent_of",
+  "object": "charles-carlson",
+  "object_kind": "person",
+  "statement": "The family notice lists Charles Carlson among Carol’s grandchildren.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Carol Swanson Price family obituary, Los Angeles Times, December 12, 2021",
+      "url": "https://www.legacy.com/us/obituaries/latimes/name/carol-price-obituary?id=31847247",
+      "locator": "Survivors paragraph, after the account of the move to California."
+    }
+  ]
+}

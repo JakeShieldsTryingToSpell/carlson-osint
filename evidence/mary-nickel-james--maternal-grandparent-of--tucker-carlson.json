@@ -1,0 +1,20 @@
+{
+  "id": "mary-nickel-james--maternal-grandparent-of--tucker-carlson",
+  "subject": "mary-nickel-james",
+  "relation": "maternal_grandparent_of",
+  "object": "tucker-carlson",
+  "object_kind": "person",
+  "statement": "Mary Nickel James was Tucker Carlson’s maternal grandmother.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Facts, subsection headed Lisa Lombardi Vaughan, opening paragraphs."
+    }
+  ],
+  "depends_on": [
+    "mary-nickel-james--parent-of--lisa-mcnear-lombardi-vaughan",
+    "lisa-mcnear-lombardi-vaughan--biological-parent-of--tucker-carlson"
+  ]
+}

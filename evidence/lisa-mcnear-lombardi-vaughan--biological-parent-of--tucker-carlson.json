@@ -1,0 +1,16 @@
+{
+  "id": "lisa-mcnear-lombardi-vaughan--biological-parent-of--tucker-carlson",
+  "subject": "lisa-mcnear-lombardi-vaughan",
+  "relation": "biological_parent_of",
+  "object": "tucker-carlson",
+  "object_kind": "person",
+  "statement": "Lisa McNear Lombardi Vaughan was a biological parent of Tucker Carlson.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Facts, subsection headed Lisa Lombardi Vaughan, opening paragraphs."
+    }
+  ]
+}

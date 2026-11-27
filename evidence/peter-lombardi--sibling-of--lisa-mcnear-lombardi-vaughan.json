@@ -1,0 +1,16 @@
+{
+  "id": "peter-lombardi--sibling-of--lisa-mcnear-lombardi-vaughan",
+  "subject": "peter-lombardi",
+  "relation": "sibling_of",
+  "object": "lisa-mcnear-lombardi-vaughan",
+  "object_kind": "person",
+  "statement": "Peter Lombardi is identified as a sibling of Lisa McNear Lombardi Vaughan.",
+  "status": "documented",
+  "sources": [
+    {
+      "title": "California Court of Appeal, Estate of Vaughan, F077628 (June 4, 2019)",
+      "url": "https://www.casemine.com/judgement/us/5cff6fad8a6bc868cbd405cd?locale=en_US",
+      "locator": "Proceedings, paragraph identifying Peter Lombardi following the discovery of the will."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wiley-nickel--second-cousin-of--tucker-carlson",
+  "subject": "wiley-nickel",
+  "relation": "second_cousin_of",
+  "object": "tucker-carlson",
+  "object_kind": "person",
+  "statement": "Carolina Journal reports that Wiley Nickel and Tucker Carlson share a great-grandfather.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Carolina Journal, July 19, 2023",
+      "url": "https://www.carolinajournal.com/uncovered-wiley-nickel-is-tucker-carlsons-cousin/",
+      "locator": "Opening genealogy paragraphs naming George Wilmarth Nickel."
+    }
+  ]
+}

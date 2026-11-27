@@ -1,0 +1,16 @@
+{
+  "id": "carol-swanson-price--married-to--charles-price-ii",
+  "subject": "carol-swanson-price",
+  "relation": "married_to",
+  "object": "charles-price-ii",
+  "object_kind": "person",
+  "statement": "Carol married Charles H. Price II in 1969.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Carol Swanson Price family obituary, Los Angeles Times, December 12, 2021",
+      "url": "https://www.legacy.com/us/obituaries/latimes/name/carol-price-obituary?id=31847247",
+      "locator": "Paragraph beginning with Carol’s attendance at Brownell Talbot."
+    }
+  ]
+}

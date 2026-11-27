@@ -1,0 +1,16 @@
+{
+  "id": "carol-swanson-price--parent-of--melissa-price",
+  "subject": "carol-swanson-price",
+  "relation": "parent_of",
+  "object": "melissa-price",
+  "object_kind": "person",
+  "statement": "The family notice identifies Melissa as Carol’s daughter.",
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Carol Swanson Price family obituary, Los Angeles Times, December 12, 2021",
+      "url": "https://www.legacy.com/us/obituaries/latimes/name/carol-price-obituary?id=31847247",
+      "locator": "Survivors paragraph, after the account of the move to California."
+    }
+  ]
+}
