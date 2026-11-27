@@ -6,8 +6,8 @@ What records define Richard Carlson’s capacity, responsibilities and dealings 
 
 **His sons’ accounts.** On Shawn Ryan’s show in 2024, Tucker described his father working with the CIA. In a later interview, Buckley characterized Richard’s work as adjacent and denied direct employment. Record the speaker, date, and exact capacity claimed. An appointment, a liaison assignment, and contact during diplomatic service are distinct propositions. [Tucker, around 51 minutes](https://www.youtube.com/watch?v=uElaHUSM7fI&t=3050s) · [Buckley’s interview transcript](https://fight.fudgie.org/search/show/cha/episode/20261120_Fri__4SQgLfo6_E)
 
-## Next record to find
+## Work on this case
 
-Locate a contemporary USIA, State or releasable agency record that names Richard, the other institution and the work. The family interviews are already indexed. [Identify the capacity and dates (#10)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/10)
+VOA duties, Seychelles briefings and the differences between family accounts. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+Richard+intelligence%22).
 
 [Richard’s notebook](../people/richard-warner-carlson/research.md) · [Archive-wide intelligence index](intelligence-connections.md) · [Main case directory](README.md)
