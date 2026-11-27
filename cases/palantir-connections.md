@@ -10,8 +10,8 @@ For any person in the family directory or named in a case, what can a public rec
 
 Add a row when there is a named person, a precise connection and a source or bounded lead. For a contract, name the legal entities and the person’s documented role. Preserve separate evidence for each link in a proposed introduction or hiring chain.
 
-## Next record to find
+## Work on this case
 
-Start with the open Charles assignment. A dated employer biography or public event program naming the role could resolve it. [Check Charles’s employment lead (#11)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/11)
+The Charles Carlson identity and employment leads, alongside Tucker’s public statements. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+Palantir%22).
 
 [Charles’s notebook](../people/charles-carlson/research.md) · [All people](../people/README.md) · [Main case directory](README.md)

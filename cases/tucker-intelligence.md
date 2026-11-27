@@ -8,8 +8,8 @@ Which public sources document Carlson’s own dealings with intelligence agencie
 
 Family testimony about Richard belongs in [Richard’s case](richard-intelligence.md). Add a finding here when the cited passage identifies an action involving Tucker himself.
 
-## Next record to find
+## Work on this case
 
-Check inspector-general releases and congressional oversight files for the disposition of the August review. Record its scope and date, or the collections and dates checked. [Find the review disposition (#16)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/16)
+The CIA application account, the 2021 interview request and the NSA review. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+Tucker+intelligence%22).
 
 [Tucker’s notebook](../people/tucker-carlson/research.md) · [Archive-wide intelligence index](intelligence-connections.md) · [Main case directory](README.md)

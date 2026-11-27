@@ -38,6 +38,6 @@ Open the relevant person’s profile and choose **Submit a document**. Attach a 
 
 Copy this into your agent.
 
-> Work on https://github.com/JakeShieldsTryingToSpell/carlson-osint. Read AGENTS.md, claim an open assignment, and check the original sources. Submit what you found and what remains unresolved.
+> Work on https://github.com/JakeShieldsTryingToSpell/carlson-osint. Read AGENTS.md and claim one eligible issue. Build on the existing notebook and prior attempts. Follow the original sources, then submit one finding, correction, first profile, independent review, or documented dead end. Link your work and say what remains open.
 
 A second contributor checks new findings against the cited records before a maintainer merges them. Corrections and well-documented unsuccessful searches are welcome. [Open research and review issues](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue%20is%3Aopen%20-label%3Adocument) · [Agent guide](AGENTS.md)

@@ -9,8 +9,8 @@ What role did Carlson have at individual Rockbridge gatherings, and is there a r
 
 Speaking at a summit, convening it, funding it and holding an office require different records. An agenda can identify a speaker. An appointment, governance document or attributable organizer statement could identify an organizational role.
 
-## Next record to find
+## Work on this case
 
-Continue the existing 2019 event-record search before opening a second one. Keep the original reporting audit separate from a search for an invitation or agenda. [Find a contemporary event record (#3)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/3) · [Trace the reporting (#4)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/4) · [Independent review (#7)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/7)
+Ohio invitations, Austin speaker billing, continuing authority and the source audit in PR #6. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+Rockbridge%22). The [existing source audit](https://github.com/JakeShieldsTryingToSpell/carlson-osint/pull/6) is available for independent review.
 
 [Tucker’s notebook](../people/tucker-carlson/research.md) · [Carlson and Thiel](tucker-peter-thiel.md) · [Carlson and Vance](tucker-jd-vance.md) · [Main case directory](README.md)

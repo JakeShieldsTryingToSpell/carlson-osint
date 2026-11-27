@@ -10,8 +10,8 @@ What can be dated about Carlson’s visits, who traveled with him, and what purp
 
 The election trip and the 1988 recollection have different dates and sources. A claim about operational activity would need evidence identifying the activity and Carlson’s role.
 
-## Next record to find
+## Work on this case
 
-Recover the March *Tripod* page and transcribe its attribution before drawing conclusions about the trip. [Watkinson Library finding aid](https://trinitywatkinson.libraryhost.com/repositories/2/resources/184) · [Recover the original page (#15)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/15)
+1988 Managua, the 1990 election trip, organizers and the Trinity campus talk. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+Nicaragua%22).
 
 [Tucker’s notebook](../people/tucker-carlson/research.md) · [Main case directory](README.md)

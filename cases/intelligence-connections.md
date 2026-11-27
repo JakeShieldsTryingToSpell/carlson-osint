@@ -11,8 +11,8 @@ Which people have a documented or attributed relationship with an intelligence i
 
 This index is open to every profile. Record **person, institution, capacity, period, source and locator**. Keep government employment, liaison, private-sector work, interviews with former officials and being named in an intelligence report distinguishable. Describe evidence about one relative under that person’s name.
 
-## Next record to find
+## Work on this case
 
-Use the existing Tucker and Richard assignments for their records. For a new name, first identify a dated public source and the precise capacity it describes. Add the result to the person’s notebook and link it here. [Richard’s institutional role (#10)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/10) · [Tucker’s NSA review (#16)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/16)
+Institutional roles, the elder Buckley’s commercial work and Kelsey’s NSC portfolio. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+intelligence+index%22).
 
 [All people](../people/README.md) · [Main case directory](README.md)

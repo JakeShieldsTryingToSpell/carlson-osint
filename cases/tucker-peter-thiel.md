@@ -6,8 +6,8 @@ When did Carlson and Thiel first deal directly with each other, and what evidenc
 
 **Financing.** CNBC reported in 2023 that Carlson’s side approached Thiel. The subsequent financing was reported as a round led by 1789 Capital. A dated allocation, signed instrument or attributable statement naming the investor would answer whether Thiel supplied money or received rights. [CNBC on the approach](https://www.cnbc.com/2023/08/08/tucker-carlson-may-see-rebekah-mercer-peter-thiel-invest-in-company.html) · [Reporting on the financing](https://techcrunch.com/2023/10/21/tucker-carlson-last-country-media-startup/)
 
-## Next record to find
+## Work on this case
 
-Look for a contemporary record of the reported 2009 exchange or an earlier direct contact. Log the earliest independently dated result alongside Carlson’s retrospective account. [Date the earliest contact (#9)](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues/9)
+Early contact, the media-company financing and editorial decisions. [Browse open assignments](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues?q=is%3Aissue+is%3Aopen+label%3A%22case%3A+Thiel%22).
 
 [Tucker’s notebook](../people/tucker-carlson/research.md) · [Palantir connections](palantir-connections.md) · [Main case directory](README.md)
