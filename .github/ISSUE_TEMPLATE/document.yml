@@ -1,0 +1,36 @@
+name: Submit a source document
+description: Add a PDF, scan, public filing, or original source link to a person's profile.
+title: "Document: "
+labels: ["document"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Give the issue a short document title. Upload a copy you can share publicly or paste the publisher's link below. Attachments become public when you add them. Remove private contact details from any copy you upload.
+  - type: input
+    id: person
+    attributes:
+      label: Person or people
+      description: Use the names on the archive profiles. A document about several people only needs one submission.
+      placeholder: Richard Warner Carlson
+    validations:
+      required: true
+  - type: upload
+    id: files
+    attributes:
+      label: Attach a document
+      description: Choose a PDF, scan, spreadsheet, or text file. For a large file, use the original source link below.
+  - type: input
+    id: original
+    attributes:
+      label: Original source link
+      description: Include the publisher, archive, or catalog URL if available. A link alone is welcome.
+      placeholder: "https://"
+  - type: textarea
+    id: citation
+    attributes:
+      label: Where should a reader look?
+      description: Identify who issued the document, its date if known, and the relevant page or passage. Say what the reader can check there.
+      placeholder: "Example: In the 2019 court opinion, the opening family history identifies the parents. See page …"
+    validations:
+      required: true
