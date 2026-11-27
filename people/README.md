@@ -1,19 +1,14 @@
 # Family directory
 
-Choose a person to open their folder. Its README explains their connection to Tucker and highlights the strongest public findings. Open **research.md** for detailed notes or **evidence/** for documents and citations.
+Open a name for the person’s summary, `research.md` for the full notebook, or `evidence/` for documents and citations. **Possible** marks a family link still under investigation. **Reported** marks a published relationship whose intervening generations are still being checked.
 
-| Branch | Individual pages |
-|---|---|
-| Richard, his spouses and their sons | [Richard Warner Carlson](richard-warner-carlson/) · [Lisa McNear Lombardi Vaughan](lisa-mcnear-lombardi-vaughan/) · [Patricia Swanson Carlson](patricia-swanson-carlson/) · [Tucker Carlson](tucker-carlson/) · [Buckley Swanson Peck Carlson](buckley-swanson-peck-carlson/) |
-| Tucker, Susan and their children | [Tucker Carlson](tucker-carlson/) · [Susan Andrews Carlson](susan-andrews-carlson/) · [Lillie Carlson](lillie-carlson/) · [Buckley W. Carlson](buckley-w-carlson/) · [Hopie Carlson](hopie-carlson/) · [Dorothy Carlson](dorothy-carlson/) |
-| Lombardi, Nickel and Vaughan | [Mary Nickel James](mary-nickel-james/) · [Lisa McNear Lombardi Vaughan](lisa-mcnear-lombardi-vaughan/) · [Peter Lombardi](peter-lombardi/) · [Michael Vaughan](michael-vaughan/) |
-| Kelsey and the Kilgore family | [Kelsey Kilgore Carlson](kelsey-kilgore-carlson/) · [Jerry Kilgore](jerry-kilgore/) · [Marty Kilgore](marty-kilgore/) · [Klarke Kilgore](klarke-kilgore/) |
-| Miller, McNear and Nickel | [Henry Miller](henry-miller/) · [George McNear](george-mcnear/) · [Wiley Nickel](wiley-nickel/) |
-| Swanson, Fulbright and Price | [Patricia Swanson Carlson](patricia-swanson-carlson/) · [J. William Fulbright](j-william-fulbright/) · [Carol Swanson Price](carol-swanson-price/) · [Charles H. Price II](charles-price-ii/) · [Melissa Price](melissa-price/) · [Charles Carlson](charles-carlson/) |
-| Bowles and Weiss | [Nellie Bowles](nellie-bowles/) · [Bari Weiss](bari-weiss/) |
+| Family branch | Person and relationship to Tucker |
+| --- | --- |
+| Tucker and his household | [Tucker Carlson](tucker-carlson/README.md) (himself)<br>[Susan Andrews Carlson](susan-andrews-carlson/README.md) (Tucker’s wife)<br>[Lillie Carlson](lillie-carlson/README.md) (Tucker’s eldest daughter)<br>[Buckley W. Carlson](buckley-w-carlson/README.md) (Tucker’s son)<br>[Hopie Carlson](hopie-carlson/README.md) (Tucker’s daughter)<br>[Dorothy Carlson](dorothy-carlson/README.md) (Tucker’s daughter) |
+| Parents and brother | [Richard “Dick” Carlson](richard-warner-carlson/README.md) (Tucker’s father)<br>[Lisa McNear Lombardi Vaughan](lisa-mcnear-lombardi-vaughan/README.md) (Tucker’s biological mother)<br>[Patricia Swanson Carlson](patricia-swanson-carlson/README.md) (Tucker’s adoptive mother)<br>[Michael Vaughan](michael-vaughan/README.md) (Tucker’s stepfather, married to Lisa)<br>[Buckley Swanson Peck Carlson](buckley-swanson-peck-carlson/README.md) (Tucker’s brother) |
+| His son’s wife and her family | [Kelsey Kilgore Carlson](kelsey-kilgore-carlson/README.md) (Tucker’s daughter-in-law, married to his son Buckley)<br>[Jerry Kilgore](jerry-kilgore/README.md) (father of Tucker’s daughter-in-law Kelsey)<br>[Marty Kilgore](marty-kilgore/README.md) (mother of Tucker’s daughter-in-law Kelsey)<br>[Klarke Kilgore](klarke-kilgore/README.md) (brother of Tucker’s daughter-in-law Kelsey) |
+| His brother’s family and the Prices | [Melissa Price](melissa-price/README.md) (identified in 2021 as the wife of Tucker’s brother Buckley)<br>[Charles Carlson](charles-carlson/README.md) (possible nephew through Tucker’s brother Buckley)<br>[Carol Swanson Price](carol-swanson-price/README.md) (mother of Melissa, who married Tucker’s brother)<br>[Charles H. Price II](charles-price-ii/README.md) (husband of Carol, whose daughter married Tucker’s brother) |
+| His mother’s family | [Mary Nickel James](mary-nickel-james/README.md) (Tucker’s maternal grandmother)<br>[Peter Lombardi](peter-lombardi/README.md) (Tucker’s maternal uncle, Lisa’s brother)<br>[Wiley Nickel](wiley-nickel/README.md) (reported second cousin of Tucker)<br>[George McNear](george-mcnear/README.md) (possible maternal great-great-grandfather of Tucker)<br>[Henry Miller](henry-miller/README.md) (possible maternal great-great-great-grandfather of Tucker) |
+| Other branches shown on the chart | [J. William Fulbright](j-william-fulbright/README.md) (possible great-uncle through Tucker’s adoptive mother, Patricia)<br>[Nellie Bowles](nellie-bowles/README.md) (possible distant cousin of Tucker)<br>[Bari Weiss](bari-weiss/README.md) (wife of Nellie Bowles, Tucker’s possible distant cousin) |
 
-[Read the supplied chart alongside the evidence and open questions](../cases/family-chart.md).
-
-Each person has one folder, even when they appear in several branches. For example, the source for Patricia Swanson adopting the two boys is on each son’s page. Buckley W. Carlson is the younger Buckley, Tucker’s son.
-
-[Archive home](../README.md)
+[View AquaGroyper’s family tree](../README.md#family-tree) · [Chart notes and evidence](../cases/family-chart.md) · [Archive home](../README.md)
