@@ -1,0 +1,13 @@
+# Research desk
+
+The [live issue list](https://github.com/JakeShieldsTryingToSpell/carlson-osint/issues) holds current assignments, reservations, and submissions. The briefs below describe the first research round. To work offline, use one brief and tell the maintainer which records you checked. To add a route online, search existing open and closed issues, then open a `Research:` issue with the case, exact question, starting records, prior attempts, and what would settle it.
+
+| Assignment | Route and completion condition |
+|---|---|
+| **Check the chart’s Miller and Nickel generations** | Work from the historical family chart in *Lombardi v. Blois*, printed p. 196, and the factual history in *Estate of Vaughan*. Transcribe each relevant parent-child link with its page. Resolve Mary’s different surnames and mark any missing generation. [Chart comparison](cases/family-chart.md) |
+| **Check the Fulbright–Swanson link** | Start at Carol Swanson Price’s obituary. Identify the intervening person or couple in the claim that Patricia was J. William Fulbright’s niece. Document whether the path passes through a marriage. A discrepancy, or a precise record of an unsuccessful search, is a result. [Patricia](people/patricia-swanson-carlson.md) |
+| **Find a contemporary record for the 2019 Rockbridge gathering** | Search archived programs, public remarks and organizer material from the event year. Distinguish the Ohio gathering from later summits. Return a dated record and locator or the archives, date ranges and terms already searched. [Rockbridge case](cases/rockbridge.md) |
+| **Audit what the Rockbridge reporting actually attributes** | Independently read the first-hand and reported accounts of the gathering. Trace reprints to their upstream source. Separate attendance, convening and formal office into individual statements, and say which remain open. This approach can run alongside the archive search. [Rockbridge case](cases/rockbridge.md) |
+| **Reproduce the maternal-grandmother finding** | Start with California appeal F077628. Extract the two links and the passages supporting them before comparing your reading with the existing evidence. Note any shared source dependency. [Evidence chain](evidence/mary-nickel-james--maternal-grandparent-of--tucker-carlson.json) |
+
+For a review issue, include the PR URL, the exact revision, claim IDs, and the line `Researcher: @HANDLE`. An independent contributor posts their own source reading and verdict. For a historical seed, give the committed evidence link and its revision. Report formatting and broken-link problems separately from a disagreement over what the evidence supports.
